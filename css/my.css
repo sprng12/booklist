@@ -1,0 +1,10 @@
+img.cover
+{
+	float: left;
+	display: inline;
+	border: 1px solid black;
+}
+table.table-description
+{
+    width: 50%;
+}
